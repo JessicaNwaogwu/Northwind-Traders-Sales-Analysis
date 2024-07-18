@@ -1,5 +1,5 @@
 
-## **Northwind Traders Anaysis**               
+## **Northwind Traders Analysis**               
 
 ## Table of contents
 -[project overview]( #project-overview)
