@@ -37,12 +37,12 @@ In the initial data preparation phase, we preformed the following tasks
 
 1. Identify the most popular routes
 2. Determine peak travel times
-3. analyze Revenue from different ticket types and  classes
+3. Analyze Revenue from different ticket types and  classes
 4. diagnose on-time performance and contributing factors.
 
 ## Data Analysis Using SQ
 
-1. Which product drives the highest Revenue
+1. Find the Number of items on the menu
 
 ``` SELECT * From table Where condition; ```
 
