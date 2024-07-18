@@ -47,6 +47,15 @@ In the initial data preparation phase, we preformed the following tasks
 ``` SELECT * From table Where condition; ```
 
 ![alt text](image.jpg)
+![question 1](https://github.com/user-attachments/assets/8061ec4a-bd0c-4214-944a-6dba44ab286b)
+
+**Results and findings**
+
+1. The number of items on the menu
+2. There least and most expensive items
+3. The number of italian dishes on the menu
+4. The average dish price in each category
+5. Which orders had the most number of items
 
 
 
